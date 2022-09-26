@@ -8,7 +8,7 @@ We have gathered the June and Dec temperature statistics from 12 years worth dat
 
 **Refer the image below for the the key differences:**
 
-![Jun_Dec_temp](https://github.com/Meghajain84/Pewlett-Hackard-Analysis/blob/main/retirement_titles.PNG)
+![Jun_Dec_temp](https://github.com/Meghajain84/surfs_up/blob/main/Jun_Dec_temp.PNG)
 
 * The minimum temperature in Dec is 8 degrees less in December than June, but not too low in December that people can't go for surfing or have ice cream
 * There is a significant difference between counts of readings in June(1700) and December(1517); if December readings count was almoast same as June count, results would have been more accurate or comparable.
