@@ -1,3 +1,9 @@
+#additional files
+app.py
+climate_analysis.ipynb
+run_links.txt
+SurfsUp_Challenge-Copy1.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
