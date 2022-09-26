@@ -1,7 +1,7 @@
 # surfs_up
 
 # Overview of the statistical analysis:
-We are looking into weather conditions in Oahu, HI in order to determine of surf and ice -cream shop is sustainable business. 
+We are looking into weather conditions in Oahu, HI in order to determine if surf and ice -cream shop is sustainable business. 
 We have gathered the June and Dec temperature statistics from 12 years worth data as part of deliverable 1 and 2.
 
 # Results: Three key differences in weather between June and December
